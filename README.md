@@ -5,15 +5,15 @@
 > ** **
 
 ```java
-┌──(root@MegaPC)-[~/]
-└─$ dotnet run
+┌──(denji@hydra)-[~/]
+└─$ hack
 ```
 > ** **
 ```c#
 
 
 
-Console.WriteLine("Welcome ＼(((￣(￣(￣▽￣)￣)￣)))／");
+Console.WriteLine("Welcome ^_____^");
 MessageBox.Show(social);
 
 ```
