@@ -1,11 +1,6 @@
 
 
-<h1 align="center">☆⌒❁ fknMega ツ≦ㄏ</h1>
-  <div align="center">
-
-Most of my tools are memes, do not take these as my programming skills.
-
-</div>
+<h1 align="center">☆⌒❁ DenjiMakesGames ツ≦ㄏ</h1>
 
 > ** **
 
