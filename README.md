@@ -24,7 +24,7 @@ MessageBox.Show(social);
     
 youtube: [DenjiMakesGames](https://www.youtube.com/@DenjiMakesGames) <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="22">
 
-discord: [denji_was_taken](https://discord.gg/) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
+discord: [denji_was_taken](https://discord.gg/kHJX7yFs8x) <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="23">
 </div>
 
 
