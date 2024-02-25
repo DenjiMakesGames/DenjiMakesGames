@@ -60,5 +60,8 @@ MessageBox.Show(stats);
 <img src='https://komarev.com/ghpvc/?username=fknMega&color=brightgreen' width='150'>
 
 </p>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DenjiMakesGames/DenjiMakesGames&type=Date)](https://star-history.com/#DenjiMakesGames/DenjiMakesGames&Date)
 
 </div>
