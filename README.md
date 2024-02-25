@@ -62,6 +62,6 @@ MessageBox.Show(stats);
 </p>
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DenjiMakesGames/DenjiMakesGames&type=Date)](https://star-history.com/#DenjiMakesGames/DenjiMakesGames&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=DenjiMakesGames/URL-to-MP3Converter&type=Date)](https://star-history.com/#DenjiMakesGames/DenjiMakesGames&Date)
 
 </div>
