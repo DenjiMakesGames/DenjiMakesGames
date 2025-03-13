@@ -57,7 +57,7 @@ MessageBox.Show(stats);
 
  <p align="center">
 
-<img src='https://komarev.com/ghpvc/?username=fknMega&color=brightgreen' width='150'>
+<img src='https://komarev.com/ghpvc/?username=DenjiMakesGames&color=brightgreen' width='150'>
 
 </p>
 
